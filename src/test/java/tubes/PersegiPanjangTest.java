@@ -6,7 +6,7 @@ import static org.junit.Assert.assertEquals;
 public class PersegiPanjangTest {
     @Test
     public void testHitungLuas() {
-        double panjang = 5;
+        double panjang = 6;
         double lebar = 3;
 
         PersegiPanjang persegiPanjang = new PersegiPanjang(panjang, lebar);
