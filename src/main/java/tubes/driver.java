@@ -2,8 +2,8 @@ package tubes;
 
 public class driver {
     public static void main(String[] args) {
-        double panjang = 5;
-        double lebar = 3;
+        double panjang = 9;
+        double lebar = 2;
 
         PersegiPanjang persegiPanjang = new PersegiPanjang(panjang, lebar);
         double luas = persegiPanjang.hitungLuas();
