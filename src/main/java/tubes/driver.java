@@ -8,7 +8,7 @@ public class driver {
         PersegiPanjang persegiPanjang = new PersegiPanjang(panjang, lebar);
         double luas = persegiPanjang.hitungLuas();
 
-        System.out.println("Luas Persegi Panjang: " + luas);
+        System.out.println("Luas Persegi Panjang adalah: " + luas);
     }
 }
 
